@@ -1,0 +1,9 @@
+aiogram==3.3.0
+beautifulsoup4==4.12.3
+requests==2.31.0
+python-dotenv==1.0.0
+apscheduler==3.10.4
+lxml==5.1.0
+selenium==4.16.0
+webdriver-manager==4.0.1undetected-chromedriver==3.5.5
+setuptools

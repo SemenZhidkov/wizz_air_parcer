@@ -1,0 +1,40 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+.venv/
+venv/
+ENV/
+
+# Тестовые файлы
+test_*.py
+debug_*.py
+*_test.py
+
+# Логи и временные файлы
+*.log
+nohup.out
+monitor.log
+
+# Скриншоты (не храним в репозитории)
+data/screenshots/*.png
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Env файлы (чувствительные данные)
+.env
+
+# Git
+.git/
+.gitignore
